@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is free.
+Git is free fostware under the GPL.
 
 初始化一个Git仓库，使用git init命令。
 
