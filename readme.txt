@@ -51,4 +51,6 @@ git commit -m "message"  将stage里暂存的 修改 提交到本地分支
 
 git checkout -- <filename>   丢弃本地未提交到stage的修改
 
+git reset HEAD <filename> 
+
 
